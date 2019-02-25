@@ -1,48 +1,55 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/poetry-generator).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
-
-### What you will make
+You are going to learn how to program your own poetry generator!
 
 --- no-print ---
-Add instructions for using the embedded content here.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/77844926/?autostart=false" frameborder="0" scrolling="no"></iframe>
+  <img src="images/poetry-final.png">
 </div>
+
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+
+![game screenshot](images/poetry-final.png)
+
 --- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
 
 --- collapse ---
 ---
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ Variables;
++ Lists and random list items;
++ Repetition (the `repeat`{:class="blockcontrol"} block).
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: What you will need
+---
+
+#### Hardware
+
++ A computer capable of running Scratch 2.0
+
+#### Software
+
++ Scratch 2.0 [offline](http://rpf.io/scratchoff){:target="_blank"}
+
+#### Downloads
+
+The starter project can be found [here](http://rpf.io/p/en/poetry-generator-scratch2-go){:target="_blank"}.
 
 --- /collapse ---
 
@@ -51,8 +58,14 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+This project has been created to celebrate [Ada Lovalace Day](https://findingada.com). If you're a teacher, you can download a School Resource Pack containing which also contains an an assembly plan ([downloads.codeclub.org.uk/ada.zip](http://downloads.codeclub.org.uk/ada.zip)), to introduce children to Ada and her revolutionary ideas.
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+--- no-print ---
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/poetry-generator-scratch2/print){:target="_blank"}.
+
+--- /no-print ---
+
+You can download the [completed project](http://rpf.io/p/en/poetry-generator-scratch2-get).
 
 --- /collapse ---
